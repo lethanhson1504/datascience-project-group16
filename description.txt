@@ -1,0 +1,12 @@
+VARIABLE DESCRIPTIONS:
+aqi        	Chỉ số chất lượng không khí (1,2,3,4,5)
+                (1 = Good; 2 = Fair; 3 = Moderate; 4 = Poor ; 5 = Very Poor )
+co          	Nồng độ CO (Carbon monoxide) 		,  μg/m3
+no            	Nồng độ NO (Nitrogen monoxide) 		,  μg/m3
+no2             Nồng độ NO2 (Nitrogen dioxide) 		,  μg/m3
+o3             	Nồng độ O3 (Ozone) 			,  μg/m3
+so2           	Nồng độ SO2 (Sulphur dioxide) 		,  μg/m3
+pm2_5           Nồng độ PM2.5 (Fine particles matter) 	,  μg/m3
+pm10          	Nồng độ PM10 (Coarse particulate matter),  μg/m3
+nh3            	Nồng độ NH3 (Ammonia) 			,  μg/m3
+
